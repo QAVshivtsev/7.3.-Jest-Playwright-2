@@ -2,11 +2,11 @@
   "name": "7.3.-jest-playwright-2",
   "version": "1.0.0",
   "main": "index.js",
-"scripts": {
+  "scripts": {
     "test": "playwright test"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vladislav Vshivtsev",
   "license": "ISC",
   "description": "",
   "devDependencies": {
